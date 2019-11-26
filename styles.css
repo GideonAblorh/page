@@ -1,0 +1,46 @@
+.top{
+	background-color: #f507f5;
+	height: 150px;
+}
+
+.under{
+	background-color: #560b69;
+	height: 40px;
+}
+
+.left{
+	background-color: #f3f3e8;
+	height: 990px;
+}
+
+.last{
+	background-color: purple;
+	color: white;
+	height: 60px;
+	padding: 10px;
+	text-align: center;
+	font-size: 30px;
+	font-family: arial black;
+}
+
+#head{
+	color: white;
+	font-family: cursive;
+	padding: 10px;
+	text-align: center;
+}
+
+#son{
+	color: white;
+	text-align: center;
+}
+
+#me{
+	font-family: arial black;
+	
+}
+
+.yes{
+	padding: 10px;
+	color: white;
+}
